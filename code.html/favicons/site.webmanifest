@@ -1,0 +1,19 @@
+{
+    "name": "Editor",
+    "short_name": "Editor",
+    "icons": [
+        {
+            "src": "#",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "#",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3C2A21",
+    "background_color": "#3C2A21",
+    "display": "standalone"
+}
